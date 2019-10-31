@@ -1,0 +1,9 @@
+image: alpine:3.10
+
+build:
+  script:
+    - apk --no-cache add make npm
+    - npm install
+    - make
+  except:
+    - tags
