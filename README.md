@@ -5,10 +5,6 @@
 Based on [passport-gitlab2](https://github.com/fh1ch/passport-gitlab2).
 
 [![npm version](https://badge.fury.io/js/passport-nextcloud.svg)](http://badge.fury.io/js/passport-nextcloud)
-[![Build Status](https://travis-ci.org/fh1ch/passport-nextcloud.svg?branch=master&style=flat)](https://travis-ci.org/fh1ch/passport-nextcloud)
-[![Coverage Status](https://coveralls.io/repos/fh1ch/passport-nextcloud/badge.svg?branch=master)](https://coveralls.io/r/fh1ch/passport-nextcloud?branch=master)
-[![Code Climate](https://codeclimate.com/github/fh1ch/passport-nextcloud/badges/gpa.svg)](https://codeclimate.com/github/fh1ch/passport-nextcloud)
-[![Dependency Status](https://david-dm.org/fh1ch/passport-nextcloud.svg?theme=shields.io)](https://david-dm.org/fh1ch/passport-nextcloud)
 
 [Passport](http://passportjs.org/) strategy for authenticating with
 [Nextcloud](https://nextcloud.com/) using the OAuth2 authentication provider service.
