@@ -4,8 +4,6 @@
 
 Based on [passport-gitlab2](https://github.com/fh1ch/passport-gitlab2).
 
-[![npm version](https://badge.fury.io/js/passport-nextcloud.svg)](http://badge.fury.io/js/passport-nextcloud)
-
 [Passport](http://passportjs.org/) strategy for authenticating with
 [Nextcloud](https://nextcloud.com/) using the OAuth2 authentication provider service.
 
